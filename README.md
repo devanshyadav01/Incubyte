@@ -381,27 +381,27 @@ This project demonstrates my ability to:
 ### Login Page
 Beautiful gradient authentication page with modern dark theme design.
 
-![Login Page](Login_Page.png)
+![Login Page](screenshots/Login_Page.png)
 
 ### Registration Page
 User-friendly registration form with validation and smooth animations.
 
-![Registration Page](image-1.png)
+![Registration Page](screenshots/Login_Page.png)
 
 ### Dashboard - Sweet Inventory
 Main dashboard displaying all available sweets with search and filter capabilities.
 
-![Dashboard](Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Main Actions
 Interactive sweet cards showing purchase options, stock levels, and pricing.
 
-![Main Actions](Main_action_page.png)
+![Main Actions](screenshots/Main_action_page.png)
 
 ### Admin Controls
 Admin-specific features including add, edit, delete, and restock functionality.
 
-![Admin Actions](Admin_Action.png)
+![Admin Actions](screenshots/Admin_Action.png)
 
 ## 📝 License
 
